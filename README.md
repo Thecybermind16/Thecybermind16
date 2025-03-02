@@ -2,9 +2,7 @@
 - 👀 I’m interested in cybersecurity&Futuretech
 - 🌱 I’m currently learning BCA
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me [email or Instagram]
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 How to reach me [Krishnapuranderbajpayee@gmail.com]
   
 
 <!---
