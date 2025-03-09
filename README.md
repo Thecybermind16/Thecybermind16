@@ -3,6 +3,9 @@
 - 🌱 I’m currently learning BCA
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me [Krishnapuranderbajpayee@gmail.com]
+<ACHIEVEMENTS>📍Graphic designer 
+              📍Data analysis 
+              📍Html,JS,
   
 
 <!---
