@@ -1,11 +1,11 @@
 - 👋 Hi, I’m @Thecybermind16
 - 👀 I’m interested in cybersecurity&Futuretech
-- 🌱 I’m currently learning BCA
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning cybersecurity 
+- 💞️ I’m looking to collaborate on ...Instagram 
 - 📫 How to reach me [Krishnapuranderbajpayee@gmail.com]
 <ACHIEVEMENTS>📍Graphic designer 
               📍Data analysis 
-              📍Html,JS,
+              📍JS,python
   
 
 <!---
