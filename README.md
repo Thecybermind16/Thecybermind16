@@ -5,8 +5,9 @@
 - 📫 How to reach me [Krishnapuranderbajpayee@gmail.com]
 <ACHIEVEMENTS>📍Graphic designer 
               📍Data analysis 
-              📍JS,python
-  
+              📍C,C++,python
+              📍Soc analyst 
+              📍cyber Analyst 
 
 <!---
 Thecybermind16/Thecybermind16 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
