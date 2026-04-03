@@ -1,15 +1,36 @@
-- 👋 Hi, I’m @Thecybermind16
-- 👀 I’m interested in cybersecurity&Futuretech
-- 🌱 I’m currently learning cybersecurity 
-- 💞️ I’m looking to collaborate on ...Instagram 
-- 📫 How to reach me [Krishnapuranderbajpayee@gmail.com]
-<ACHIEVEMENTS>📍Graphic designer 
-              📍Data analysis 
-              📍C,C++,python
-              📍Soc analyst 
-              📍cyber Analyst 
+👋 Hi, I'm Krishna (CyberHead0n)
 
-<!---
-Thecybermind16/Thecybermind16 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🔐 Cybersecurity Student | Future Builder  
+🧠 Focus: Ethical Hacking | OSINT | AI Security  
+🚀 Mission: Building Human Defense Interface (HDI)
+
+---
+
+ ⚔️ Projects
+- 🔎 Port Scanner
+- 🕵️ OSINT Username Finder
+- 📊 Log Analyzer
+
+
+---
+
+ 🛠️ Skills
+- Python
+- Networking Basics
+- OSINT Techniques
+- C++
+- Digital forensic 
+- linux
+
+
+---
+
+## 📈 Current Mission
+Building cybersecurity tools & AI-based defense systems.
+
+---
+
+## 🌐 Connect
+- LinkedIn (https://www.linkedin.com/in/krishna-purander-bajpayee-259ba82b6?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- Email 
+  (Krishnapuranderbajpayee@gmail.com)
