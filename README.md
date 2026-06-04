@@ -21,6 +21,9 @@
 - C++
 - Digital forensic 
 - linux
+- AI researcher 
+- AI security 
+- Cybersecurity 
 
 
 ---
