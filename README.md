@@ -1,7 +1,7 @@
 👋 Hi, I'm Krishna (CyberHead0n)
 
 🔐 Cybersecurity Student | Future Builder  
-🧠 Focus: Ethical Hacking | OSINT | AI Security  
+🧠 Focus: Ethical Hacking | DFIR | AI Security  
 🚀 Mission: Building Human Defense Interface (HDI)
 
 ---
