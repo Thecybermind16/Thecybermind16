@@ -13,10 +13,9 @@
 ---
 
  🛠️ Skills
-- Python
-- Networking Basics
-- OSINT Techniques
-- C++
+- Python/C++/Java
+- Networking 
+- OSINT/DFIR
 - Digital forensic 
 - linux
 - AI researcher 
