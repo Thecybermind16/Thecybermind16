@@ -7,9 +7,7 @@
 ---
 
  ⚔️ Projects
-- 🔎 Port Scanner
-- 🕵️ OSINT Username Finder
-- 📊 Log Analyzer
+- 👾 DFIR 90 DAYS TRAINING ROOM [ https://claude.ai/artifact/GwBKnzciQoKbz5zXt1BEt3 ]
 
 
 ---
